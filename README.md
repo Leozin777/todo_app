@@ -1,6 +1,6 @@
 # todo
 
-A new Flutter project.
+Um aplicativo feito para fazer o gerenciamento de tarefas diárias
 
 ## Getting Started
 
