@@ -1,7 +1,7 @@
 # todo
 
-Um aplicativo feito para fazer o gerenciamento de tarefas diárias
-
+Um aplicativo feito para fazer o gerenciamento de tarefas diárias,
+[Link da postagem no linkedin](https://www.linkedin.com/feed/update/urn:li:activity:7265152572330561536/)
 ## Getting Started
 
 This project is a starting point for a Flutter application.
